@@ -1,0 +1,6 @@
+name: 'Nekromant512-Final'
+type: module
+description: 'Final Module'
+core_version_requirement: 9.x
+package: 'Nekromant512'
+

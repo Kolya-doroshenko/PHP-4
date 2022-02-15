@@ -1,0 +1,7 @@
+nekromant512.content:
+  path: '/nekromant512/final'
+  defaults:
+    _form: '\Drupal\nekromant512\Form\Nekromant512Form'
+    _title: 'Form'
+  requirements:
+    _permission: 'access content'
